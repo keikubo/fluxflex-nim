@@ -1,0 +1,9 @@
+[permission]
+public_html     666
+
+[setup]
+cpanm -L extlib < requires.txt
+
+[deploy]
+cpanm -L extlib < requires.txt
+PERL5LIB=extlib nim/bin/nim
