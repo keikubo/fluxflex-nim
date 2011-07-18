@@ -1,0 +1,16 @@
+Any::Moose
+Try::Tiny
+Path::Class
+URI::Template
+DateTime
+DateTime::Format::W3CDTF
+DateTime::Format::HTTP
+URI::Escape
+Text::Markdown
+Text::Hatena
+List::Util
+YAML::Syck
+Plack
+Text::MicroTemplate::Extended
+FindBin::libs
+Data::Page
