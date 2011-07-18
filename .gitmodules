@@ -1,0 +1,3 @@
+[submodule "nim"]
+	path = nim
+	url = git://github.com/typester/nim

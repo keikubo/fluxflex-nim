@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title><?= $entry->title ?></title>
+  </head>
+  <body>
+    <h1><?= $entry->title ?></h1>
+    <section>
+      <?= encoded_string $entry->body ?>
+    </section>
+  </body>
+</html>

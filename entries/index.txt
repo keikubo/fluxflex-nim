@@ -1,0 +1,16 @@
+nim on fluxflex
+
+# What is `nim`
+
+[nim](https://github.com/typester/nim) is contents generator written by Perl.
+
+`nim` is created by [@typester](http://twitter.com/typester)
+
+# What is this package
+
+This package is toolkit for nim on [fluxflex.com](https://fluxflex.com/)
+
+# Package author
+
+Naoki Okamura (Nyarla) *nyarla[ at ]thotep.net*
+
